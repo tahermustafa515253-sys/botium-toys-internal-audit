@@ -17,5 +17,5 @@ The audit follows the NIST Cybersecurity Framework and evaluates Botium Toys’ 
 - SOC 2 Trust Service Principles
 
 ---
-**Auditor:** Taher Mustafa  
+**Auditor:** Taher Mustafa Hamid
 **Date:** November 2025  
