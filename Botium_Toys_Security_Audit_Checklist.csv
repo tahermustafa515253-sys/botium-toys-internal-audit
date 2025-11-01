@@ -1,0 +1,15 @@
+Control,Implemented
+Least Privilege,No
+Disaster Recovery Plans,No
+Password Policies,Yes
+Separation of Duties,No
+Firewall,Yes
+Intrusion Detection System (IDS),No
+Backups,No
+Antivirus Software,Yes
+Manual Monitoring (Legacy Systems),Yes
+Encryption,No
+Password Management System,No
+Locks,Yes
+CCTV Surveillance,Yes
+Fire Detection/Prevention,Yes
